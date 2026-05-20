@@ -7,12 +7,12 @@ use CodeIgniter\HTTP\RedirectResponse;
 use CodeIgniter\HTTP\RequestInterface;
 use CodeIgniter\HTTP\ResponseInterface;
 
-class AuthFilter implements FilterInterface
+class GuestFilter implements FilterInterface
 {
     public function before(RequestInterface $request, $arguments = null): ?RedirectResponse
     {
-        if (! session()->has('userId') || ! session()->get('isLoggedIn')) {
-            return redirect()->to('/login')->with('error', 'Silakan login terlebih dahulu.');
+        if (session()->has('userId') && session()->get('isLoggedIn')) {
+            return redirect()->to('/dashboard');
         }
 
         return null;

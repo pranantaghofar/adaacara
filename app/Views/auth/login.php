@@ -25,7 +25,7 @@
     <form action="<?= site_url('login') ?>" method="post">
         <div class="field">
             <label for="email">Email</label>
-            <input id="email" name="email" type="email" value="<?= old('email') ?>" autocomplete="email" required>
+            <input id="email" name="email" type="email" value="<?= esc(old('email')) ?>" autocomplete="email" required>
         </div>
 
         <div class="field">

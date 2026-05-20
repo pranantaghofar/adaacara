@@ -2,6 +2,8 @@
 
 namespace Config;
 
+use App\Filters\AuthFilter;
+use App\Filters\GuestFilter;
 use CodeIgniter\Config\Filters as BaseFilters;
 use CodeIgniter\Filters\Cors;
 use CodeIgniter\Filters\CSRF;
@@ -12,7 +14,6 @@ use CodeIgniter\Filters\InvalidChars;
 use CodeIgniter\Filters\PageCache;
 use CodeIgniter\Filters\PerformanceMetrics;
 use CodeIgniter\Filters\SecureHeaders;
-use App\Filters\AuthFilter;
 
 class Filters extends BaseFilters
 {
@@ -36,6 +37,7 @@ class Filters extends BaseFilters
         'pagecache'     => PageCache::class,
         'performance'   => PerformanceMetrics::class,
         'auth'          => AuthFilter::class,
+        'guest'         => GuestFilter::class,
     ];
 
     /**
@@ -108,5 +110,26 @@ class Filters extends BaseFilters
      *
      * @var array<string, array<string, list<string>>>
      */
-    public array $filters = [];
+    public array $filters = [
+        'guest' => [
+            'before' => [
+                'login',
+                'register',
+            ],
+        ],
+        'auth' => [
+            'before' => [
+                'dashboard',
+                'logout',
+                'template',
+                'template/*',
+                'templates',
+                'templates/*',
+                'editor',
+                'editor/*',
+                'preview',
+                'preview/*',
+            ],
+        ],
+    ];
 }

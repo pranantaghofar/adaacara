@@ -17,12 +17,12 @@
     <form action="<?= site_url('register') ?>" method="post">
         <div class="field">
             <label for="name">Nama</label>
-            <input id="name" name="name" type="text" value="<?= old('name') ?>" autocomplete="name" required>
+            <input id="name" name="name" type="text" value="<?= esc(old('name')) ?>" autocomplete="name" required>
         </div>
 
         <div class="field">
             <label for="email">Email</label>
-            <input id="email" name="email" type="email" value="<?= old('email') ?>" autocomplete="email" required>
+            <input id="email" name="email" type="email" value="<?= esc(old('email')) ?>" autocomplete="email" required>
         </div>
 
         <div class="field">

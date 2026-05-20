@@ -13,7 +13,9 @@ class AuthController extends BaseController
             return redirect()->to('/dashboard');
         }
 
-        return view('auth/register');
+        return view('auth/register', [
+            'title' => 'Daftar - Ada Acara',
+        ]);
     }
 
     public function attemptRegister(): RedirectResponse
@@ -32,11 +34,17 @@ class AuthController extends BaseController
         }
 
         $userModel = new UserModel();
-        $userModel->insert([
+        $created = $userModel->insert([
             'name' => trim((string) $this->request->getPost('name')),
             'email' => strtolower(trim((string) $this->request->getPost('email'))),
             'password_hash' => password_hash((string) $this->request->getPost('password'), PASSWORD_DEFAULT),
         ]);
+
+        if (! $created) {
+            return redirect()->back()
+                ->withInput()
+                ->with('errors', $userModel->errors());
+        }
 
         return redirect()->to('/login')->with('success', 'Akun berhasil dibuat. Silakan login.');
     }
@@ -47,7 +55,9 @@ class AuthController extends BaseController
             return redirect()->to('/dashboard');
         }
 
-        return view('auth/login');
+        return view('auth/login', [
+            'title' => 'Login - Ada Acara',
+        ]);
     }
 
     public function attemptLogin(): RedirectResponse
@@ -72,10 +82,10 @@ class AuthController extends BaseController
                 ->with('error', 'Email atau password tidak sesuai.');
         }
 
-        session()->regenerate();
+        session()->regenerate(true);
         session()->set([
             'isLoggedIn' => true,
-            'userId' => $user['id'],
+            'userId' => (int) $user['id'],
             'userName' => $user['name'],
             'userEmail' => $user['email'],
         ]);
@@ -85,6 +95,10 @@ class AuthController extends BaseController
 
     public function logout(): RedirectResponse
     {
+        if (! session()->get('isLoggedIn')) {
+            return redirect()->to('/login');
+        }
+
         session()->destroy();
 
         return redirect()->to('/login')->with('success', 'Kamu sudah logout.');
