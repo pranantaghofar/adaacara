@@ -17,4 +17,6 @@ $routes->post('logout', 'AuthController::logout', ['filter' => 'auth']);
 
 $routes->group('', ['filter' => 'auth'], static function ($routes) {
     $routes->get('dashboard', 'DashboardController::index');
+    $routes->get('templates', 'TemplateController::index');
+    $routes->post('templates/create', 'TemplateController::store');
 });

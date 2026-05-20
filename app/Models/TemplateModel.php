@@ -28,4 +28,18 @@ class TemplateModel extends Model
     protected $dateFormat = 'datetime';
     protected $createdField = 'created_at';
     protected $updatedField = 'updated_at';
+
+    public function getActiveTemplates(): array
+    {
+        return $this->where('is_active', 1)
+            ->orderBy('name', 'ASC')
+            ->findAll();
+    }
+
+    public function getActiveTemplate(int $id): ?array
+    {
+        return $this->where('is_active', 1)
+            ->where('id', $id)
+            ->first();
+    }
 }
