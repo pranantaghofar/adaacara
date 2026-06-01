@@ -1,2 +1,2 @@
-# adaacara
-Aplikasi Event Page Builder dengan CodeIgniter 4 + MySQL + GrapesJS.
+# Invitation page builder
+Aplikasi Event Page Builder 
