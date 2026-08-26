@@ -1,0 +1,2602 @@
+[
+    {
+        "id": "shape-floral-001",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-001.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-002",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-002.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-003",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-003.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-004",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-004.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-005",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-005.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-006",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-006.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-007",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-007.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-008",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-008.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-009",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-009.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-010",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-010.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-011",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-011.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-012",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-012.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-013",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-013.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-014",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-014.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-015",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-015.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-016",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-016.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-017",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-017.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-018",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-018.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-019",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-019.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-020",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-020.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-021",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-021.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-022",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-022.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-023",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-023.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-024",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-024.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-025",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-025.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-026",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-026.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-027",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-027.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-028",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-028.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-029",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-029.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-030",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-030.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-031",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-031.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-032",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-032.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-033",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-033.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-034",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-034.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-035",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-035.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-036",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-036.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-037",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-037.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-038",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-038.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-039",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-039.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-040",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-040.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-041",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-041.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-042",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-042.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-043",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-043.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-044",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-044.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-045",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-045.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-046",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-046.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-047",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-047.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-048",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-048.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-049",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-049.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-050",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-050.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-051",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-051.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-052",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-052.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-053",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-053.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-054",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-054.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-055",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-055.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-056",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-056.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-057",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-057.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-058",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-058.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-059",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-059.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-060",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-060.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-061",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-061.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-062",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-062.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-063",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-063.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-064",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-064.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-065",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-065.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-066",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-066.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-067",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-067.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-068",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-068.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-069",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-069.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-070",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-070.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-071",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-071.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-072",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-072.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-073",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-073.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-074",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-074.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-075",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-075.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-076",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-076.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-077",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-077.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-078",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-078.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-079",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-079.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-080",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-080.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-081",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-081.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-082",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-082.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-083",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-083.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-084",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-084.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-085",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-085.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-086",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-086.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-087",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-087.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-088",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-088.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-089",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-089.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-090",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-090.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-091",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-091.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-092",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-092.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-093",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-093.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-094",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-094.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-095",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-095.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-096",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-096.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-097",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-097.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-098",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-098.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-099",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-099.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-100",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-100.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-101",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-101.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-102",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-102.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-103",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-103.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-104",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-104.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-105",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-105.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-106",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-106.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-107",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-107.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-108",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-108.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-109",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-109.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-110",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-110.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-111",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-111.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-112",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-112.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-113",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-113.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-114",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-114.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-115",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-115.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-116",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-116.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-117",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-117.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-118",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-118.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-119",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-119.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-120",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-120.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "line"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-121",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-121.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-122",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-122.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-123",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-123.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-124",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-124.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-125",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-125.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-126",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-126.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-127",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-127.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-128",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-128.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "soft"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-129",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-129.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-130",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-130.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-131",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-131.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-132",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-132.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-133",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-133.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-134",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-134.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-135",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-135.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-136",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-136.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "bold"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-137",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-137.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-138",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-138.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-139",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-139.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-140",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-140.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-141",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-141.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-142",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-142.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-143",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-143.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-144",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-144.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "classic"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-145",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-145.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-146",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-146.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-147",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-147.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-148",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-148.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-149",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-149.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-150",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-150.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-151",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-151.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-152",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-152.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "modern"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-153",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-153.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-154",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-154.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-155",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-155.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-156",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-156.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-157",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-157.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-158",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-158.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-159",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-159.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-160",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-160.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "decorative"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-161",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-161.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-162",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-162.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-163",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-163.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-164",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-164.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-165",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-165.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-166",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-166.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-167",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-167.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-168",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-168.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-169",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-169.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-170",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-170.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-171",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-171.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-172",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-172.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-173",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-173.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-174",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-174.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-175",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-175.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-176",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-176.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "corner"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-177",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-177.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-178",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-178.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-179",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-179.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-180",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-180.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-181",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-181.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-182",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-182.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-183",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-183.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-184",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-184.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "divider"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-185",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-185.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-186",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-186.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-187",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-187.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-188",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-188.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-189",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-189.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-190",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-190.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-191",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-191.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-192",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-192.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "badge"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-floral-193",
+        "type": "shape",
+        "category": "Floral",
+        "name": "Shape Floral",
+        "src": "/assets/editor/shapes/floral/shape-floral-193.svg",
+        "tags": [
+            "shape",
+            "floral",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-islamic-194",
+        "type": "shape",
+        "category": "Islamic",
+        "name": "Shape Islamic",
+        "src": "/assets/editor/shapes/islamic/shape-islamic-194.svg",
+        "tags": [
+            "shape",
+            "islamic",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-wedding-195",
+        "type": "shape",
+        "category": "Wedding",
+        "name": "Shape Wedding",
+        "src": "/assets/editor/shapes/wedding/shape-wedding-195.svg",
+        "tags": [
+            "shape",
+            "wedding",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-birthday-196",
+        "type": "shape",
+        "category": "Birthday",
+        "name": "Shape Birthday",
+        "src": "/assets/editor/shapes/birthday/shape-birthday-196.svg",
+        "tags": [
+            "shape",
+            "birthday",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-corporate-197",
+        "type": "shape",
+        "category": "Corporate",
+        "name": "Shape Corporate",
+        "src": "/assets/editor/shapes/corporate/shape-corporate-197.svg",
+        "tags": [
+            "shape",
+            "corporate",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-abstract-198",
+        "type": "shape",
+        "category": "Abstract",
+        "name": "Shape Abstract",
+        "src": "/assets/editor/shapes/abstract/shape-abstract-198.svg",
+        "tags": [
+            "shape",
+            "abstract",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-minimalist-199",
+        "type": "shape",
+        "category": "Minimalist",
+        "name": "Shape Minimalist",
+        "src": "/assets/editor/shapes/minimalist/shape-minimalist-199.svg",
+        "tags": [
+            "shape",
+            "minimalist",
+            "frame"
+        ],
+        "premium": false
+    },
+    {
+        "id": "shape-luxury-200",
+        "type": "shape",
+        "category": "Luxury",
+        "name": "Shape Luxury",
+        "src": "/assets/editor/shapes/luxury/shape-luxury-200.svg",
+        "tags": [
+            "shape",
+            "luxury",
+            "frame"
+        ],
+        "premium": false
+    }
+]
