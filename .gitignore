@@ -6,10 +6,8 @@ writable/
 assets/
 public/uploads/
 uploads/
-
 build/
 change-zips/
-
 database/
 
 *.zip
