@@ -3,7 +3,7 @@
 node_modules/
 vendor/
 writable/
-
+app/assets/
 public/uploads/
 uploads/
 
@@ -22,3 +22,4 @@ error_log
 BUSINESS_PROFILE_EDITOR_AUDIT.md
 BUSINESS_PROFILE_EDITOR_SAFE_PLAN.md
 CODEX_CONTEXT.md
+AGENTS.md
