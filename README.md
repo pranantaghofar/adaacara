@@ -1,3 +1,5 @@
+## Ringkasan Produk
+
 adaAcara adalah aplikasi web berbasis CodeIgniter 4 untuk membuat dan menjual pengalaman digital acara. Awalnya fokus pada undangan digital, lalu berkembang menjadi beberapa produk:
 
 - Undangan Digital: editor Fabric.js, template, publish ke `/u/:slug`, buku tamu, RSVP, musik, gift, countdown, galeri foto, social media, tombol aksi, dan elemen interaktif.
