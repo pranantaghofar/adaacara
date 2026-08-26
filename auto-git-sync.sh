@@ -1,25 +1,42 @@
 #!/bin/bash
 
+BRANCH="main"
+INTERVAL=60
+
 while true
 do
   echo "Checking Git..."
 
-  # Kalau tidak ada perubahan lokal, tarik update remote
+  # Ambil info terbaru dari GitHub
+  git fetch origin "$BRANCH"
+
+  # Kalau working tree bersih, tarik perubahan remote
   if git diff --quiet && git diff --cached --quiet; then
-    git pull --rebase origin main
+    LOCAL=$(git rev-parse HEAD)
+    REMOTE=$(git rev-parse origin/$BRANCH)
+
+    if [ "$LOCAL" != "$REMOTE" ]; then
+      echo "Remote update found, pulling..."
+      git pull --rebase origin "$BRANCH"
+    else
+      echo "Already up to date."
+    fi
+
+  # Kalau ada perubahan lokal
   else
-    # Simpan semua perubahan lokal
+    echo "Local changes found..."
+
     git add -A
 
-    # Commit hanya kalau memang ada perubahan
     git commit -m "Auto sync $(date '+%Y-%m-%d %H:%M:%S')" || true
 
-    # Ambil update remote sebelum push
-    git pull --rebase origin main
+    echo "Pulling remote before push..."
+    git pull --rebase origin "$BRANCH"
 
-    # Push ke GitHub
-    git push origin main
+    echo "Pushing..."
+    git push origin "$BRANCH"
   fi
 
-  sleep 60
+  echo "sleep $INTERVAL"
+  sleep "$INTERVAL"
 done
