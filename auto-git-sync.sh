@@ -1,7 +1,7 @@
 #!/bin/bash
 
 BRANCH="main"
-INTERVAL=60
+INTERVAL=10
 
 while true
 do

@@ -1,11 +1,3 @@
-# adaAcara Web
-
-Dokumentasi ringkas proyek adaAcara. File ini menjelaskan arsitektur, fitur utama, alur penting, dan catatan operasional agar developer berikutnya bisa masuk tanpa menebak-nebak.
-
-> Catatan: source code, route, model, SQL di `database/`, dan konfigurasi aktual tetap menjadi sumber kebenaran utama. README ini adalah peta cepat, bukan pengganti audit source.
-
-## Ringkasan Produk
-
 adaAcara adalah aplikasi web berbasis CodeIgniter 4 untuk membuat dan menjual pengalaman digital acara. Awalnya fokus pada undangan digital, lalu berkembang menjadi beberapa produk:
 
 - Undangan Digital: editor Fabric.js, template, publish ke `/u/:slug`, buku tamu, RSVP, musik, gift, countdown, galeri foto, social media, tombol aksi, dan elemen interaktif.
